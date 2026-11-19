@@ -1,0 +1,7 @@
+# Ignore temporary drive artifacts
+.Trashes/
+.fseventsd/
+.metadata_never_index
+
+# Ignore massive library bundles (only commit the specific library files your project needs)
+# src/lib/some_huge_unused_package/
